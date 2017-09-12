@@ -1,0 +1,7 @@
+.flashcard {
+  cursor: pointer;
+}
+
+.flashcard:hover h2{
+  text-decoration: underline;
+}
